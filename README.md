@@ -1,9 +1,8 @@
-is104
+is104 - Individuelle innleveringer:
 =====
 
-Individuell innlevering
-Her ligger filene til innleveringen i IS-104, lab1:
+Her ligger filene til innleveringen, Lab1 + 2:
 Proglangs.html
 Proglangs.js
 Proglangs.css
-Readme.txt - Med spørsmål og svar delen av oppgaven.
+Readme.rtf - Med kontrollspørsmål delen av oppgaven.
