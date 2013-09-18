@@ -1,14 +1,15 @@
 ﻿
 //function callOthers() {
 list.onchange = function textoutput() {	
-	var list = document.getElementById('list');
 	var outputbox = document.getElementById('outputbox');
-outputbox.innerHTML = this.value;} 
+outputbox.innerHTML = "Du har valgt:  " + this.value;} 
 //};function link () {window.open('name', 'list', 'height=undefined,width=undefined', false);}
 
 
-
-
+function konstruksjon ()
+	{
+	alert("Siden er under konstruksjon")
+	}
 
 
 //list.onchange = function (2) {
