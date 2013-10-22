@@ -1,6 +1,8 @@
 is104 - Individuelle innleveringer:
 =====
 
+Har oppdatert mappestrukturen så en felles mappe for tidligere innleveringer og en egen for lab 4 ned: html,css,ja-fil og et bilde.
+
 Her ligger filene til innleveringen, Lab1 + 2 + 3:
 Lab3:
 Lab3.css
